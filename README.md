@@ -1,4 +1,3 @@
-# ML
 # WNS Machine Learning Challenge
 
 # XGBoost model with parameter tuning with bayesian Optimization with 5 Kfolds.
